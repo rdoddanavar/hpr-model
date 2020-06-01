@@ -27,17 +27,16 @@ L2-class testbed for 54 mm motors, with a focus on durability and ease-of-assemb
 ├── arcas/
 │   ├── aerotech_hv_arcas.ork
 │   └── aerotech_hv_arcas.rkt
-├── lv1_pima/
-│   ├── decals/
-│   ├── 99362A803_TAPPING INSERTS FOR PLASTICS.STEP
-│   ├── bulkhead_recovery_male.FCStd
-│   ├── design.odp
-│   ├── lv1_pima_materials.gdsheet
-│   └── lv1_pima.ork
-├── LICENSE
-├── OpenRocket-15.03.jar*
-├── README.md
-└── update_index.sh*
+├── pima/
+│   ├── cad/
+│   ├── decal/
+│   ├── doc/
+│   ├── materials.gdsheet
+│   └── pima.ork
+├── license
+├── OpenRocket-15.03.jar
+├── readme.md
+└── update_index.sh
 
-3 directories, 11 files
+5 directories, 8 files
 ```

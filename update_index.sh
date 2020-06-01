@@ -4,7 +4,7 @@
 # ex. (2 levels) ./update_index.sh 2
 
 target="/home/${USER}/Git/hpr-model/"
-file="/home/${USER}/Git/hpr-model/README.md"
+file="/home/${USER}/Git/hpr-model/readme.md"
 blk='```'
 lvl=$1 # No. lvl in tree
 

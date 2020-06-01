@@ -1,6 +1,6 @@
 # hpr-model
 
-`High Power Rocketry - Design & Modeling`
+> High Power Rocketry - CAD Models, Sim Results, & Flight Data
 
 ![](https://img.shields.io/badge/CAD-Onshape-lightgrey.svg)
 ![](https://img.shields.io/github/license/rdoddanavar/hpr-model.svg)

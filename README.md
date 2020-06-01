@@ -6,7 +6,7 @@
 ![](https://img.shields.io/github/license/rdoddanavar/hpr-model.svg)
 ![](https://img.shields.io/github/repo-size/rdoddanavar/hpr-model.svg)
 
-## LV-1 Pima
+## Pima
 
 L2-class testbed for 54 mm motors, with a focus on durability and ease-of-assembly
 

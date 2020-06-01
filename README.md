@@ -1,17 +1,10 @@
 # hpr-model
 
-`High Power Rocketry - CAD Models`
+`High Power Rocketry - Design & Modeling`
 
-FreeCAD: https://www.freecadweb.org/
-
- - Version: `0.18.1`
- - Addons
-   - Workbenches
-     - `A2plus` - assembly functionality
-     - `fasteners` - stock fastener tool
-   - Macros
-     - `CenterOfMass` - basic C.M. tool
-     - `FCInfo` - detailed geometric & mass properties
+![](https://img.shields.io/badge/CAD-Onshape-lightgrey.svg)
+![](https://img.shields.io/github/license/rdoddanavar/hpr-model.svg)
+![](https://img.shields.io/github/repo-size/rdoddanavar/hpr-model.svg)
 
 ## LV-1 Pima
 

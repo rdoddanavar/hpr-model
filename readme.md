@@ -20,6 +20,19 @@ L2-class testbed for 54 mm motors, with a focus on durability and ease-of-assemb
 
 ### Media
 
+## File Formats
+
+| Purpose     | Application      | Format    |
+|-------------|------------------|-----------|
+| Spreadsheet | LibreOffice Calc | `*.fods`  |
+| CAD         | Onshape          | `*.step`  |
+| CAM         | PrusaSlicer      | `*.stl`   |
+|             |                  | `*.3mf`   |
+|             |                  | `*.gcode` |
+| Simulation  | OpenRocket       | `*.ork`   |
+|             | RASAero II       | `*.CDX1`  |
+|             | RASP Motor       | `*.eng`   |
+
 ## Directory Index
 
 ```

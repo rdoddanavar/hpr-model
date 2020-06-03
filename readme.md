@@ -16,6 +16,8 @@ L2-class testbed for 54 mm motors, with a focus on durability and ease-of-assemb
 |----------|--------|------------|---------------|------------------|
 | in       | in     | lb         | lb            | - cal            |
 
+![alt text](pima/doc/openrocket.png "OpenRocket")
+
 ### Performance
 
 ### Media

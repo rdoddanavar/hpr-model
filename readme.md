@@ -1,14 +1,10 @@
-# hpr-model
+# Pima
 
-> High Power Rocketry - CAD Models, Sim Results, & Flight Data
+> L2-class testbed for 54 mm motors, with a focus on durability and ease-of-assembly
 
 ![](https://img.shields.io/badge/CAD-Onshape-lightgrey.svg)
 ![](https://img.shields.io/github/license/rdoddanavar/hpr-model.svg)
 ![](https://img.shields.io/github/repo-size/rdoddanavar/hpr-model.svg)
-
-## Pima
-
-L2-class testbed for 54 mm motors, with a focus on durability and ease-of-assembly
 
 ### Properties
 

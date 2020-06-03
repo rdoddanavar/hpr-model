@@ -12,7 +12,7 @@
 |----------|--------|------------|---------------|------------------|
 | in       | in     | lb         | lb            | - cal            |
 
-![alt text](pima/doc/openrocket.png "OpenRocket")
+![alt text](doc/openrocket.png "OpenRocket")
 
 ### Performance
 

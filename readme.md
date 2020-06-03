@@ -35,19 +35,27 @@
 
 ```
 .
-├── arcas/
-│   ├── aerotech_hv_arcas.ork
-│   └── aerotech_hv_arcas.rkt
-├── pima/
-│   ├── cad/
-│   ├── decal/
-│   ├── doc/
-│   ├── materials.gdsheet
-│   └── pima.ork
+├── cad/
+│   ├── avbay/
+│   ├── bulkhead/
+│   ├── drawing/
+│   ├── fastener/
+│   ├── motor/
+│   └── nosecone/
+├── cam/
+│   └── bulkhead/
+├── decal/
+│   ├── design.odp
+│   ├── sara_logo.pdf
+│   └── Tripoli-rocketry-association.svg
+├── doc/
+│   ├── openrocket.png
+│   └── placeholder
 ├── license
-├── OpenRocket-15.03.jar
+├── materials.gdsheet
+├── pima.ork
 ├── readme.md
 └── update_index.sh
 
-5 directories, 8 files
+11 directories, 10 files
 ```
